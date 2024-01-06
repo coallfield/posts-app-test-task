@@ -1,0 +1,21 @@
+.posts-list {
+    margin-left: 30px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    a {
+        text-decoration: none;
+        color: black;
+    }
+    .post {
+        margin-top: 15px;
+        max-width: 1500px;
+        min-height: 80px;
+        margin-right: 20px;
+        border: 2px solid black;
+        border-radius: 15px;
+    }
+    .post:hover {
+        scale: 102%;
+        border: 2px solid brown;
+    }
+}

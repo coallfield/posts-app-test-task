@@ -1,0 +1,25 @@
+.user-info {
+    margin-left: 30px;
+    margin-top: 20px;
+    grid-gap: 5px;
+    display: flex;
+    flex-direction: column;
+   
+        .info {
+            display: flex;
+            flex-direction: row;
+            grid-gap: 10px
+        }
+        a {
+    text-decoration: none;
+    color: brown
+}
+a:hover {
+    text-decoration: underline;
+ 
+}
+
+.data {
+    color: brown;
+}
+}
